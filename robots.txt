@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: lun4r0w1tch.github.io/sitemap.xml
